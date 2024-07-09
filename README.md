@@ -1,4 +1,4 @@
-# oauth
+# Google signup using Firebase
 
 ## Firebase Setup
 
